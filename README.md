@@ -2,7 +2,7 @@
 
 **Análise & Engenharia de Dados | IA & Automação | Finanças & Mercado Financeiro**
 
-Sou graduanda em Ciências Econômicas e desenvolvo projetos que conectam dados, inteligência artificial, automação, finanças e negócios.
+Sou graduanda em Ciências Econômicas e desenvolvo projetos que conectam dados, inteligência artificial, automação e finanças
 
 ## 💡 Atuação
 
