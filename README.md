@@ -1,6 +1,6 @@
 # Leury Mello
 
-**Análise & Engenharia de Dados | IA & Automação | Finanças & Mercado Financeiro**
+**Análise & Engenharia de Dados | IA & Automação | Finanças**
 
 Sou graduanda em Ciências Econômicas e desenvolvo projetos que conectam dados, inteligência artificial, automação e finanças
 
